@@ -1,5 +1,5 @@
 - 👋 Hey there , I’m @mhdahsan2000.
-- 👀 I’m interested in Machine Learning,IoT,Cyber-sec and software development. 
+- 👀 I’m interested in MachineLearning,IoT,Cyber-sec and software development. 
 - 🌱 I’m currently learning topics related to MachineLearning and CyberSecurity.  
 - 💞️ I’m looking to collaborate on any project ! 
 - 📫 How to reach me : email me on mhdahsan2000@gmail.com
